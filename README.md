@@ -53,4 +53,5 @@ These visualizations help uncover patterns, outliers, and actionable insights re
 1. Clone or download the repository.  
 2. Ensure you have Python 3 and the required libraries installed:  
    ```bash
-   pip install pandas matplotlib seabor
+   pip install pandas matplotlib seaborn
+   
